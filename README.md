@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![The Office](office_gh.jpg)
+![The Office](passive_recon.png)
